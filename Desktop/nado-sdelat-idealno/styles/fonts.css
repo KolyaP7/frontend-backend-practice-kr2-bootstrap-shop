@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'Raleway' ;
+    src: url('../nado_sdelat_idealno-main/fonts/Raleway-ExtraBold.woff') format('woff');
+    font-style: 'ExtraBold';
+    font-weight: 900;
+}
+@font-face {
+    font-family: 'Raleway';
+    src: url('../nado_sdelat_idealno-main/fonts/Raleway-ExtraBold.woff') format('woff2');
+    font-style: 'ExtraBold';
+    font-weight: 900;
+
+}
+@font-face {
+    font-family: 'Raleway';
+    src: url('../nado_sdelat_idealno-main/fonts/Raleway-Regular.woff') format('woff');
+    font-style: 'Regular';
+    font-weight: 400;
+
+}
+@font-face {
+    font-family: 'Raleway';
+    src: url('../nado_sdelat_idealno-main/fonts/Raleway-Regular.woff') format('woff');
+    font-style: 'Regular';
+    font-weight: 400;
+
+}
